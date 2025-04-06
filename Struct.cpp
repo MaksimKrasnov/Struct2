@@ -99,7 +99,7 @@ int main()
     cin >> person.birthday.year;
 
     cout << "Person" << endl;
-    cout << "Имя: " << person.name << endl;
+    cout << "Имя: " << person.name << endl;ываываыва
     cout << "Адрес: " << person.address;
     cout << "День: " << person.birthday.day << endl;
     cout << "Месяц: " << person.birthday.month << endl;
